@@ -1,9 +1,9 @@
 title: John Melwin Richard
-subtitle: A Portfolio of first year data science student at RIT.
+subtitle: First year Data Science graduate student at RIT, NY.
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://johnmelwin.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
