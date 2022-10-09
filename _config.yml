@@ -26,11 +26,11 @@ urls:
 
 author_logo: 9.1.jpeg
 author: John Melwin Richard
-author_bio: Hi, my name is John Melwin Richard. 
+author_bio:  Hi, my name is John Melwin Richard. I’m a first year Data Science student at RIT. I’m passionate about programming, machine learning, statistical analysis, and pretty much anything related to data science. I am proficient in processing information to find patterns and trends, using technology to analyze data, and creating a machine-learning algorithm or predictive model for data analysis. With an ardent command on data science and computer science, I await to set off my professional career in a challenging environment, which turns my dreams into reality.
 author_email: "jj5603@rit.edu"
-author_location: USA
+author_location: Rochester, USA
 author_website_url: "https://johnmelwin.github.io/#/"
-typewrite-text:  Welcome to my website! Feel free to explore....
+typewrite-text:  Welcome to my website! 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
